@@ -1,0 +1,1 @@
+This project is a basic HTML web page created to understand the fundamentals of web development.
